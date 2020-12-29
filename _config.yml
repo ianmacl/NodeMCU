@@ -17,7 +17,7 @@ title: Getting Started with NodeMCU and MicroPython
 description: >- # this means to ignore newlines until "baseurl:"
   Learn NodeMCU and MicroPython starting at the beginning. Coding and electronics can
   seem intimidating, but the basics are easy to learn and a lot of fun.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/NodeMCU" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ian_maclennan
 github_username:  ianmacl
