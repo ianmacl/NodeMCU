@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "What is NodeMCU and MicroPython"
+date:   2020-12-27 19:58:40 -0500
+---
+[NodeMCU](https://www.nodemcu.com/index_en.html) is an inexpensive Internet of Things (IoT) platform that makes it easy to build
+Internet connected devices. The NodeMCU device is an ideal hobby platform and can be used to create an endless number of projects.
+
+[MicroPython](https://micropython.org) is a version of Python optimized for small devices like the NodeMCU device. Python is a
+computer programming language that is easy to learn and get started with.
+
+In these tutorials you will build simple projects and learn the fundamentals of what you need to know to build and create.
