@@ -7,9 +7,9 @@ Now that we've completed a brief introduction to Python, and a brief introductio
 we are ready to power up the NodeMCU and connect it to the computer.
 
 To start, locate the breadboard that came in the provided kit. It will look like the picture below:
-![Breadboard](/assets/breadboard.png)
+![Breadboard](/NodeMCU/assets/breadboard.png)
 
 Then, locate the bag with the NodeMCU board in it. Take the NodeMCU and gently, but firmly, press its pins
 into the holes in the breadboard so that it is oriented as in the photo below:
 
-![NodeMCU in Breadboard](/assets/nodemcu_in_breadboard.png)
+![NodeMCU in Breadboard](/NodeMCU/assets/nodemcu_in_breadboard.png)

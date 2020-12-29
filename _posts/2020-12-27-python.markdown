@@ -8,7 +8,7 @@ grow to be extremely powerful and are used many places for many purposes.
 
 To create your first Python script, go to [this online interpreter site](https://repl.it/languages/python3).
 
-When you open the online interpreter, you'll see a page that looks like this: ![Python Interpreter](/assets/pythonrepl.png).
+When you open the online interpreter, you'll see a page that looks like this: ![Python Interpreter](/NodeMCU/assets/pythonrepl.png).
 
 To use the interpreter, you enter your program on the left and click the Run button. You will be able to see the output
 of your program on the right.
